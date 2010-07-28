@@ -1,0 +1,1 @@
+Simple white list HTML sanitizing rails plugin.
